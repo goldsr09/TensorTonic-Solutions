@@ -31,6 +31,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Conditional Probability | Compute both directional conditional probabilities from two event probabilities and their intersection. | https://www.tensortonic.com/problems/probstat-conditional-probability |
 | Discrete Moments | Given the values and probabilities of a discrete random variable, compute its first two moments, variance, and standard deviation. | https://www.tensortonic.com/problems/probstat-discrete-moments |
 | Independence Testing | Determine whether two events are independent from their marginal probabilities and intersection probability. | https://www.tensortonic.com/problems/probstat-independence-testing |
+| Mean, Median, Mode | Compute mean, median, and a deterministically selected mode for a one-dimensional numeric sample. | https://www.tensortonic.com/problems/probstat-mean-median-mode |
 | Normal Distribution | Compute the z-score, cumulative probability (CDF), probability density (PDF), and the probability of falling within one standard deviation of the mean. | https://www.tensortonic.com/problems/probstat-normal-distribution |
 | Permutations and Combinations | Compute factorial, permutation, and combination counts for supplied nonnegative integers. | https://www.tensortonic.com/problems/probstat-permutations-combinations |
 | Poisson Distribution | Compute Poisson probabilities, cumulative mass through a cutoff, and the probability of zero events. | https://www.tensortonic.com/problems/probstat-poisson-distribution |
