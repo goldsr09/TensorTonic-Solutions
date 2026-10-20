@@ -35,6 +35,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Normal Distribution | Compute the z-score, cumulative probability (CDF), probability density (PDF), and the probability of falling within one standard deviation of the mean. | https://www.tensortonic.com/problems/probstat-normal-distribution |
 | Permutations and Combinations | Compute factorial, permutation, and combination counts for supplied nonnegative integers. | https://www.tensortonic.com/problems/probstat-permutations-combinations |
 | Poisson Distribution | Compute Poisson probabilities, cumulative mass through a cutoff, and the probability of zero events. | https://www.tensortonic.com/problems/probstat-poisson-distribution |
+| Sample Variance & Standard Deviation | Compute unbiased sample variance and standard deviation with Bessel correction for a numeric sample. | https://www.tensortonic.com/problems/probstat-sample-var-std |
 
 View my verified ML profile: [TensorTonic profile](https://www.tensortonic.com/profile/ryan_goldstein3)
 <!-- tensortonic:end -->
